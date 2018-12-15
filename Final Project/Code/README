@@ -1,1 +1,3 @@
 All codes for the final project.
+1. The GRU-Compare folder has the files for comparing 1-layer, 2-layer, and 3-layer GRU Model.
+2. The 2-layer-GRU-hidden folder has the files for comparing different sizes of hidden layers.
